@@ -4,7 +4,7 @@ body{
     padding: 0;
     text-align: center;
 }
-main{
+#main{
     border-radius: 5px;
     background: whitesmoke;
     margin: 30px 8px;
