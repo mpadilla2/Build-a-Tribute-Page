@@ -9,6 +9,11 @@ main{
     margin: auto;
     width: 98%;
 }
+#img-div{
+    background: white;
+    width: calc(100% - 40px);
+    margin: auto;
+}
 #image{
     max-width: 100%;
     display: block;
