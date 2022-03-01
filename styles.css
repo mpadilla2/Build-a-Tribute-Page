@@ -25,3 +25,9 @@ ul {
     text-align: left;
     max-width: 500px;
 }
+#tribute-link{
+    color: steelblue;
+}
+#tribute-link:visited{
+    color: slategray;
+}
