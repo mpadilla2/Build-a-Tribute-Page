@@ -6,8 +6,7 @@ body{
 main{
     border-radius: 5px;
     background: whitesmoke;
-    margin: auto;
-    width: 98%;
+    margin: 30px 8px;
 }
 #img-div{
     background: white;
