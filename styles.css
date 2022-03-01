@@ -19,3 +19,7 @@ main{
     height: auto;
     margin: auto;
 }
+ul {
+    display: inline-block;
+    text-align: left;
+}
