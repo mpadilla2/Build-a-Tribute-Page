@@ -24,6 +24,7 @@ ul {
     display: inline-block;
     text-align: left;
     max-width: 500px;
+    line-height: 1.5;
 }
 #tribute-link{
     color: steelblue;
