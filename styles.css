@@ -22,6 +22,8 @@ body{
     display: block;
     height: auto;
     margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 ul {
     display: inline-block;
