@@ -42,6 +42,7 @@ li {
     padding-bottom: 1.6em;
 }
 #img-caption {
+    font-size: .875rem;
     padding-bottom: 1.6em;
 }
 #tribute-link{
@@ -49,4 +50,10 @@ li {
 }
 #tribute-link:visited{
     color: slategray;
+}
+
+@media (min-width: 460px){
+    #main{
+        margin: 1.875rem .5rem;
+    }
 }
