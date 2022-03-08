@@ -18,6 +18,9 @@ li {
 .title{
     padding-top: 1.5em;
 }
+.readmore{
+    margin: 0;
+}
 #main{
     border-radius: 5px;
     background: rgb(238,238,238);
