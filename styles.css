@@ -22,6 +22,7 @@ li {
 }
 .readmore{
     margin: 0;
+    padding-bottom: 2em;
 }
 #main{
     border-radius: 5px;
