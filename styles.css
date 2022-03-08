@@ -29,8 +29,11 @@ ul {
     display: block;
     height: auto;
     margin: auto;
-    padding-top: 1.875em;
-    padding-bottom: 1.875em;
+    padding-top: 1.6em;
+    padding-bottom: 1.6em;
+}
+#img-caption {
+    padding-bottom: 1.6em;
 }
 #tribute-link{
     color: steelblue;
