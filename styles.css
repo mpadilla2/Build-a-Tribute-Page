@@ -1,3 +1,5 @@
+/* Mobile first design using browser default
+pixels of 16px, then using rems off of that. */
 body{
     color: hsl(0, 0%, 20%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
