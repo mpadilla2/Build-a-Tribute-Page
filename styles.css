@@ -26,13 +26,13 @@ li {
 #img-div{
     background: white;
     width: calc(100% - 40px);
-    margin: auto;
+    margin: 0 auto;
 }
 #image{
     max-width: 100%;
     display: block;
     height: auto;
-    margin: auto;
+    margin: 0 auto;
     padding-top: 1.6em;
     padding-bottom: 1.6em;
 }
