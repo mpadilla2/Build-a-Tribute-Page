@@ -5,6 +5,15 @@ body{
     padding: 0;
     text-align: center;
 }
+ul {
+    display: inline-block;
+    text-align: left;
+    max-width: 500px;
+    line-height: 1.5;
+}
+.title{
+    padding-top: 1.5em;
+}
 #main{
     border-radius: 5px;
     background: rgb(238,238,238);
@@ -23,18 +32,9 @@ body{
     padding-top: 1.875em;
     padding-bottom: 1.875em;
 }
-ul {
-    display: inline-block;
-    text-align: left;
-    max-width: 500px;
-    line-height: 1.5;
-}
 #tribute-link{
     color: steelblue;
 }
 #tribute-link:visited{
     color: slategray;
-}
-.title{
-    padding-top: 1.5em;
 }
