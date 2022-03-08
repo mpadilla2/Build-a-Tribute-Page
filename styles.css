@@ -8,7 +8,7 @@ body{
 #main{
     border-radius: 5px;
     background: rgb(238,238,238);
-    margin: 30px 8px;
+    margin: 1.875rem .5rem;
 }
 #img-div{
     background: white;
@@ -20,8 +20,8 @@ body{
     display: block;
     height: auto;
     margin: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 1.875em;
+    padding-bottom: 1.875em;
 }
 ul {
     display: inline-block;
