@@ -17,11 +17,6 @@ li {
     padding-right: 1em;
     padding-bottom: 1em;
 }
-.title{
-    padding-top: 1.5em;
-    margin: 0;
-    font-size: 2.1875rem;
-}
 .readmore{
     margin: 0;
     padding-bottom: 2em;
@@ -30,6 +25,11 @@ li {
     border-radius: 5px;
     background: rgb(238,238,238);
     margin: 0;
+}
+#title{
+    padding-top: 1.5em;
+    margin: 0;
+    font-size: 2.1875rem;
 }
 #img-div{
     background: white;
