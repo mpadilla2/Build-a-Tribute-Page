@@ -12,6 +12,7 @@ ul {
     line-height: 1.5;
 }
 li {
+    padding-right: 1em;
     padding-bottom: 1em;
 }
 .title{
