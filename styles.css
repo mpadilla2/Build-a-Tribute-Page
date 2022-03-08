@@ -11,6 +11,9 @@ ul {
     max-width: 500px;
     line-height: 1.5;
 }
+li {
+    padding-bottom: 1em;
+}
 .title{
     padding-top: 1.5em;
 }
