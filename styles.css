@@ -17,6 +17,7 @@ li {
 }
 .title{
     padding-top: 1.5em;
+    margin: 0;
 }
 .readmore{
     margin: 0;
@@ -24,7 +25,7 @@ li {
 #main{
     border-radius: 5px;
     background: rgb(238,238,238);
-    margin: 1.875rem .5rem;
+    margin: 0;
 }
 #img-div{
     background: white;
